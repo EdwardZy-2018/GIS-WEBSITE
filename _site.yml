@@ -4,9 +4,13 @@ description: |
   GIS PROJECT WEBSITE
 output_dir: "_site"
 navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  left:
+    - text: "Proposal"
+      href: proposal.html
+    - text: "Data Preparation"
+      href: data_preparation.html
+    - text: "Report of Survey"
+      href: report_of_survey.html
+    - text: "Site Selection Report"
+      href: site_selection_report.html
 output: distill::distill_article

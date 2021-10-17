@@ -1,0 +1,37 @@
+---
+references:
+- type: article-journal
+  id: JB01
+  author:
+  - family: Berry
+    given: J.
+  issued:
+    date-parts:
+    - - 1987
+  title: 'A mathematical structure for analyzing maps'
+  title-short: 
+  container-title: Environmental Management
+  volume: 11
+  issue: 3
+  page: 317-325
+  DOI: 
+  URL: https://link-springer-com.libproxy.smu.edu.sg/content/pdf/10.1007%2FBF01867159.pdf
+  language: en-GB
+
+- type: book
+  id: IH01
+  author:
+  - family: Heywood
+    given: Ian
+  - family: Cornelius
+    given: Sarah
+  - family: Carver
+    given: Steve
+  title: 'An Introduction to geographical Information Systems'
+  issued: 2006
+  edition: 3
+  publisher: Person Education Limited
+  address: Essex, England
+  Note: ISBN 0-13-129317-b
+
+
