@@ -1,5 +1,5 @@
 ---
-title: "Survey of Study Area"
+title: "Site Selection & Suitability Analysis"
 description: |
 
 site: distill::distill_website
@@ -7,23 +7,7 @@ output:
   distill::distill_article:
       toc: TRUE
 ---
-## Population and Demographics
 
-
-
-
-## Economic and Businesses
-
-
-
-## Transport and Communication
-
-
-## Infrastructure 
-
-
-
-## Environment and Hazard
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
