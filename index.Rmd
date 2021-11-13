@@ -1,9 +1,22 @@
 ---
 title: "GIS WEBSITE"
 description: |
-  Welcome to the website. I hope you enjoy it!
+
 site: distill::distill_website
 ---
+**SMT201 Geographic Information System for Urban Planning**
+
+## Group Member 
+Edward Puah Zheng Yi  Email: zypuah.2018@scis.smu.edu.sg
+
+Khant Min Naing  Email: mnkhant.2020@scis.smu.edu.sg 
+
+Wong Kin Hou  Email: kinhou.wong.2018@scis.smu.edu.sg
+
+\
+\
+
+**[Next](proposal.html)**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
