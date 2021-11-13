@@ -13,4 +13,6 @@ navbar:
       href: report_of_survey.html
     - text: "Site Selection Report"
       href: site_selection_report.html
+    - text: "Final Report"
+      href: test.html
 output: distill::distill_article
