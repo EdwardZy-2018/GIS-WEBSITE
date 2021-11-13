@@ -1,5 +1,5 @@
 ---
-title: "Data Preparation"
+title: "Survey of Study Area"
 description: |
   Dataset used for this Project
 site: distill::distill_website
@@ -7,6 +7,23 @@ output:
   distill::distill_article:
       toc: TRUE
 ---
+## Population and Demographics
+
+
+
+
+## Economic and Businesses
+
+
+
+## Transport and Communication
+
+
+## Infrastructure 
+
+
+
+## Environment and Hazard
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -16,28 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-## Data Source
-
-|Data Set|Description|Source|Link|
-|----------:|----------:|----------:|----------:|
-Tuplah Kalimantan Timur 2019 | Contains data on land-cover information in East Kalimantan | Indonesia Geospatial|https://www.indonesia-geospasial.com/2020/09/download-shp-tutupan-lahan-tahun-2019.html 
-Kependudukan Tahun 2019 Seluruh Indonesia | Contains comprehensive population data at the sub-district level of all sub-districts in Indonesia | Indonesia Geospatial | https://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas-desa.html 
-RBI Kabupaten Kutai Kartanegara | Contains collection of topographical data layers of Kutai Kartanegara Regency | Ina-Geoportal|https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html
-RBI Kabupaten Penajam Paser Utara | Contains collection of topographical data layers of Penajam North Paser Regency | Ina-Geoportal |https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html
-RBI Kabupaten Kutai Balikpapan | Contains collection of topographical data layers of Kutai Balikpapan Regency | Ina-Geoportal |https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html
-RBI Kabupaten Kutai Samarinda | Contains collection of topographical data layers of Kutai Samarinda Regency | Ina-Geoportal |https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html
-Titik Api Hotspot Seluruh Indonesia | Contains data on forest fire hotspots by year in Indonesia | Indonesia Geospatsial|https://www.indonesia-geospasial.com/2020/04/shapefile-shp-titik-api-hotspot.html 
-Pemukiman Detail Seluruh Indonesia | Contains comprehensive data on detailed information of settlements in Indonesia | Open Street Map |https://www.indonesia-geospasial.com/2020/12/download-shp-pemukiman-detail-seluruh.html
-DEM SRTM 30m Seluruh Indonesia | Contains raster data of 30-meter SRTM (Shuttle Radar Topography Mission) images of Indonesia, released by NGA, NASA and USGS | United States Geological Survey (USGS) | https://www.indonesia-geospasial.com/2020/01/download-dem-srtm-30-meter-se-indonesia.html 
 
 
-## Geopackages
 
-Coordinate Reference System
-
-Name: EPSG:23845 – DGN95/Indonesia TM-3 zone 54.1\
-Unit: Meters\
-Method: Transverse Mercator\
-Celestial Body: Earth\
-Reference: Static (Relies on a datum which plate is plate-fixed)
 
