@@ -9,6 +9,14 @@
       "last_modified": "2021-11-13T11:52:00+08:00"
     },
     {
+      "path": "data_preparation.html",
+      "title": "Data Preparation",
+      "description": "Dataset used for this Project\n",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nData Source\r\nGeopackages\r\n\r\nData Source\r\nData Set\r\nDescription\r\nSource\r\nLink\r\nTuplah Kalimantan Timur 2019\r\nContains data on land-cover information in East Kalimantan\r\nIndonesia Geospatial\r\nhttps://www.indonesia-geospasial.com/2020/09/download-shp-tutupan-lahan-tahun-2019.html\r\nKependudukan Tahun 2019 Seluruh Indonesia\r\nContains comprehensive population data at the sub-district level of all sub-districts in Indonesia\r\nIndonesia Geospatial\r\nhttps://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas-desa.html\r\nRBI Kabupaten Kutai Kartanegara\r\nContains collection of topographical data layers of Kutai Kartanegara Regency\r\nIna-Geoportal\r\nhttps://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html\r\nRBI Kabupaten Penajam Paser Utara\r\nContains collection of topographical data layers of Penajam North Paser Regency\r\nIna-Geoportal\r\nhttps://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html\r\nRBI Kabupaten Kutai Balikpapan\r\nContains collection of topographical data layers of Kutai Balikpapan Regency\r\nIna-Geoportal\r\nhttps://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html\r\nRBI Kabupaten Kutai Samarinda\r\nContains collection of topographical data layers of Kutai Samarinda Regency\r\nIna-Geoportal\r\nhttps://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html\r\nTitik Api Hotspot Seluruh Indonesia\r\nContains data on forest fire hotspots by year in Indonesia\r\nIndonesia Geospatsial\r\nhttps://www.indonesia-geospasial.com/2020/04/shapefile-shp-titik-api-hotspot.html\r\nPemukiman Detail Seluruh Indonesia\r\nContains comprehensive data on detailed information of settlements in Indonesia\r\nOpen Street Map\r\nhttps://www.indonesia-geospasial.com/2020/12/download-shp-pemukiman-detail-seluruh.html\r\nDEM SRTM 30m Seluruh Indonesia\r\nContains raster data of 30-meter SRTM (Shuttle Radar Topography Mission) images of Indonesia, released by NGA, NASA and USGS\r\nUnited States Geological Survey (USGS)\r\nhttps://www.indonesia-geospasial.com/2020/01/download-dem-srtm-30-meter-se-indonesia.html\r\nGeopackages\r\nCoordinate Reference System\r\nName: EPSG:23845 – DGN95/Indonesia TM-3 zone 54.1\r\nUnit: Meters\r\nMethod: Transverse Mercator\r\nCelestial Body: Earth\r\nReference: Static (Relies on a datum which plate is plate-fixed)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-13T14:28:30+08:00"
+    },
+    {
       "path": "index.html",
       "title": "GIS WEBSITE",
       "author": [],
