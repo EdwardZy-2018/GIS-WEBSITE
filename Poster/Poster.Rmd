@@ -48,6 +48,8 @@ Kota Samarinda has the highest accessibility to electricity. Although Kutai Kart
 
 Environment and Hazards
 
+The study area has dominant land-cover of natural forests, which we needed to avoid when implementing the new capital city. East Kalimantan area is most prone to forest fires, compared to other hazards like volcanic eruptions, earthquakes, tsunamis, floods, and landslides. Moreover, some of the data such as location of volcanoes were not readily available. Hence, we focused on 1) forest fires and 2) major rivers in our study area.  
+
 # Site Selection
 ![](../Layout/AHP.jpg){ width=50% }
 ![](../Layout/Consistency.jpg){ width=50% }
