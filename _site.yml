@@ -12,7 +12,7 @@ navbar:
     - text: "Report of Survey"
       href: report_of_survey.html
     - text: "Site Selection Report"
-      href: SMT201_AY2021-22T1_FinalProject.docx
+      href: SMT201_AY2021-22T1_FinalProject.pdf
     - text: "Poster"
       href: Poster.html
 output: distill::distill_article

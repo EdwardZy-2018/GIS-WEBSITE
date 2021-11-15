@@ -9,11 +9,13 @@ output:
 ---
 ## Population and Demographics
 ![](Layout/population.jpg)
-According to Map X.Y., almost all sub-districts with highest population quantile (13563 – 45505) are located in Balikpapan Regency and Samarinda Regency. Other two regencies have relatively lower population compared to these two. Hence, we can consider that Kota Balikpapan and Kota Samarinda has the biggest community settlement.  
+According to Map 1.1, almost all sub-districts with highest population quantile (13134 – 45505) are located in Balikpapan Regency and Samarinda Regency. Other two regencies have relatively lower population compared to these two. Hence, we can consider that Kota Balikpapan and Kota Samarinda has the biggest community settlement.  
 ![](Layout/dominantagegroup.jpg)
+According to Map 1.2, the sub-districts with highest population are observed within Kota Balikpapan and Kota Samarinda. Majority of the sub-districts in Penajam Paser Utara are found to have the least share of population among four regencies. Sub-districts in Kutai Kartanegara have moderate to low population density. Hence, we concluded that the regencies of Penajam Paser Utara and Kutai Kartanegara will be fit for building a new national capital and a community settlement to redistribute the population more fairly across the island.  
 
 ![](Layout/populationdensity.jpg)
-According to Map X.Y., the sub-districts with highest population are observed within Kota Balikpapan and Kota Samarinda. Majority of the sub-districts in Penajam Paser Utara are found to have the least share of population among four regencies. Sub-districts in Kutai Kartanegara have moderate to low population density. Hence, we concluded that the regencies of Penajam Paser Utara and Kutai Kartanegara will be fit for building a new national capital and a community settlement to redistribute the population more fairly across the island.  
+ 
+According to Map 1.3, majority of the sub-districts within our study-area have dominantly higher proportion of working adults. Hence, we can conclude that the local community has potential labour force that the new capital city development might need. 
 
 ## Economic and Businesses
 ![](Layout/sitedistribution.png)
@@ -44,6 +46,7 @@ Shown above is a map depicting the distribution of transport infrastructure in o
 
  
 ![](Layout/communication.jpg)
+To survey the prominence of communication in our study area, we have plotted a map to depict the distribution of core communication infrastructures such as TV stations, Radio stations, phone towers and post offices. Kota Samarinda is the most well wired with communication infrastructure, with an abundance of phone towers and post offices despite its small land size. Kutai Kartaanegara is the second most well wired with a nice distribution of phone towers in the north and central region. Kutai Kartaanegara is also able to tap on the communication infrastructure of Kota Samarinda for higher usage. Kota Balikpapan is sufficiently wired with communication infrastructure for its size. Penajam Paser Utara is the least connected district with only 4 infrastructures at the extreme ends of its district parameters. 
 
 
 ## Infrastructure 
@@ -57,10 +60,11 @@ Based on the topological dataset, there are 4 main points of electricity. Most o
 
 ## Environment and Hazard
 ![](Layout/naturalforest.jpg)
-According to Map X.Y., the study area has dominant land-cover of natural forests, which we needed to avoid when implementing the new capital city.  
-![](Layout/farmingplantation.jpg)
-According to Indonesian National Board for Disaster Management (BNPB), East Kalimantan area is most prone to forest fires, compared to other hazards like volcanic eruptions, earthquakes, tsunamis, floods, and landslides. Moreover, some of the data such as location of volcanoes were not readily available. Hence, for this section, we focused on 1) forest fires and 2) major rivers in our study area.  
+According to Map 1.6, the study area has dominant land-cover of natural forests, which we needed to avoid when implementing the new capital city. Majority of the forest areas are scrub, swamp scrubs and secondary swamp forests. A small proportion of dryland forest and mangrove forests were also observed.  
+
+
 ![](Layout/heatmap.jpg)
+According to Indonesian National Board for Disaster Management (BNPB), East Kalimantan area is most prone to forest fires, compared to other hazards like volcanic eruptions, earthquakes, tsunamis, floods, and landslides. As seen in Map 1.7, huge portion of the study area falls under the high risk zone of the forest fire (according to data collected over 2014-2019). Hence, these areas should be avoided when selection for new capital is made.  
 
 
 ```{r setup, include=FALSE}
