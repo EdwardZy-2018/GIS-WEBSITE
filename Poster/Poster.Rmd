@@ -28,7 +28,7 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 # Study Area
 
-This package uses the same workflow approach as the R Markdown you know and love. Basically it goes from RMarkdown > Knitr > Markdown > Pandoc > HTML/CSS > PDF. You can even use the bibliography the same way [@R-posterdown].
+![](../Layout/studysite.jpg)
 
 # Results
 
