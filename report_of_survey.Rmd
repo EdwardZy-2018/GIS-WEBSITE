@@ -26,6 +26,7 @@ With Indonesia earning the name of the world’s largest palm oil producer in th
 
 ## Transport and Communication
 
+![](Layout/roadnetwork.jpg)
 
 ![](Layout/transport.jpg)
 ![](Layout/communication.jpg)
@@ -33,9 +34,11 @@ With Indonesia earning the name of the world’s largest palm oil producer in th
 
 ## Infrastructure 
 ![](Layout/building.jpg)
-![](Layout/roadnetwork.jpg)
+From the above settlement choropleth map, it could be identified briefly that there are several distinct urban clusters. Kota Balikpapan is small but extremely dense. Kota Samarinda is also another small district with a dense settlement. Penajamm Paser Ultra on the other hand is significantly less dense than its neighbouring districts. Kutai Kartaanegara is not very dense overall, but contains several clusters of significant settlements. 
+
 
 ![](Layout/electricity.jpg)
+Based on the topological dataset, there are 4 main points of electricity. Most of them are near and within the service range of Kota Samarinda. Therefore, Kota Samarinda has the highest accessibility to electricity. Although Kutai Kartaanegara has the greatest number of electricity points, its huge surface area is more underserved than Kota Samarinda. Kota Balikpapan might not have any points of electricity but it has access to the nearest electrical point in Kutai Kartaanegara. Penajam Paser Utara on the other hand does not have any electrical points and has the overall poorest access to electricity. 
 
 
 ## Environment and Hazard
