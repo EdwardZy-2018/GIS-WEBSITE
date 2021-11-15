@@ -43,12 +43,17 @@ In Indonesia, the economy is accounted with the Industrial, Mining and Agricultu
 Transport and Communication
 
 Infrastructure
+there are several distinct urban clusters. Kota Balikpapan is small but extremely dense. Kota Samarinda is also another small district with a dense settlement. Penajamm Paser Ultra on the other hand is significantly less dense than its neighbouring districts. Kutai Kartaanegara is not very dense overall, but contains several clusters of significant settlements.
+Kota Samarinda has the highest accessibility to electricity. Although Kutai Kartaanegara has the greatest number of electricity points, its huge surface area is more underserved than Kota Samarinda. Kota Balikpapan might not have any points of electricity but it has access to the nearest electrical point in Kutai Kartaanegara. Penajam Paser Utara on the other hand does not have any electrical points and has the overall poorest access to electricity.
 
 Environment and Hazards
 
 # Site Selection
+![](../Layout/AHP.jpg)
+![](../Layout/Consistency.jpg)
 
-
+![](../Layout/Selected Area.jpg)
+![](../Layout/Selected Site.jpg)
 
 Try `posterdown` out! Hopefully you like it!
 
