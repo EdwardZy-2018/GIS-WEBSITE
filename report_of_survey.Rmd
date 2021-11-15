@@ -25,13 +25,17 @@ With Indonesia earning the name of the world’s largest palm oil producer in th
 
 ## Transport and Communication
 
-![](Layout/roadnetwork.jpg)
+
 ![](Layout/transport.jpg)
 ![](Layout/communication.jpg)
 
 
 ## Infrastructure 
 ![](Layout/settlementdensity.jpg)
+![](Layout/roadnetwork.jpg)
+
+![](Layout/electricity.jpg)
+
 
 
 ## Environment and Hazard
