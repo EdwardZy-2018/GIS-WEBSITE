@@ -30,21 +30,17 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 ![](../Layout/studysite.jpg)
 
-# Site Surveying
+# Site Survey
 
-![](../Layout/population.jpg)
-![](../Layout/dominantagegroup.jpg)
-![](../Layout/populationdensity.jpg)
-![](../Layout/sitedistribution.png)
-![](../Layout/Agriculturedistribution.png)
-![](../Layout/transport.jpg)
-![](../Layout/communication.jpg)
-![](../Layout/building.jpg)
-![](../Layout/roadnetwork.jpg)
-![](../Layout/electricity.jpg)
-![](../Layout/naturalforest.jpg)
-![](../Layout/farmingplantation.jpg)
-![](../Layout/heatmap.jpg)
+Population and Demographic
+
+Economy and Businesses
+
+Transport and Communication
+
+Infrastructure
+
+Environment and Hazards
 
 
 # Conclusion
