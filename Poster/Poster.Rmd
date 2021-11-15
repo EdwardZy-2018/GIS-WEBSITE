@@ -52,8 +52,8 @@ Environment and Hazards
 ![](../Layout/AHP.jpg)
 ![](../Layout/Consistency.jpg)
 
-![](../Layout/Selected Area.jpg)
-![](../Layout/Selected Site.jpg)
+![](../Layout/Selected Area.jpg){ width=50% }
+![](../Layout/Selected Site.jpg){ width=50% }
 
 Try `posterdown` out! Hopefully you like it!
 
