@@ -18,15 +18,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction
 
-Welcome to `posterdown` ! This is my attempt to provide a semi-smooth workflow for those who wish to take their R Markdown skills to the conference world. Most features from R Markdown are available in this package such as Markdown section notation, figure captioning, and even citations like this one [@R-rmarkdown]. The rest of this example poster will show how you can insert typical conference poster features into your own document. 
+In 2019, during his annual state of the union address at the parliament, President Joko Widodo announced a plan to relocate the capital to Kalimantan on the island of Borneo. As part of the plan, part of Kutai Kartanegara Regency (Kabupaten Kutai Kartanegara) and Penajam North Paser Regency (Kabupaten Penajam Utara) in East Kalimantan will be carved out to create a new province-level planned city, and the capital will be relocated to a more central location within Indonesia. This relocation plan is pushed on an urgency, citing Jakarta’s chronic traffic, and sinking foundations. It is also part of the government’s strategy to re-balance the already congested Java island and reduce developmental inequality between Java and other islands in the Indonesian archipelago and to reduce Jakarta’s burden as Indonesia’s primary hub.  
 
-## Objectives
+## Project Motivation
 
-1. Easy to use reproducible poster design. 
-2. Integration with R Markdown.
-3. Easy transition from `posterdown` to `pagedown` report or manuscript documents [@R-pagedown].
+This project’s research topic is to analyse and evaluate the proposed Indonesia New National Capital Development Plan. Our methodology includes developing a GIS-Enabled Urban Planning Support System, integrating open government data and other open-source data sets to identify spatial patterns, and analysing the site suitability of the proposed new capital area. We will also identify appropriate areas within study site to set up this new capital development project.  
 
-# Methods
+The study area for this project covers all sub-districts and district of Kota Balikpapan and Kota Samarinda, and selected districts and sub-districts of Kutai Kartanegara and North Penajam Paser Regencies. 
+
+# Study Area
 
 This package uses the same workflow approach as the R Markdown you know and love. Basically it goes from RMarkdown > Knitr > Markdown > Pandoc > HTML/CSS > PDF. You can even use the bibliography the same way [@R-posterdown].
 

@@ -8,22 +8,31 @@ output:
       toc: TRUE
 ---
 ## Population and Demographics
-
-
-
+![](Layout/population.jpg)
+![](Layout/populationdensity.jpg)
+![](Layout/dominantagegroup.jpg)
 
 ## Economic and Businesses
-
+![](Layout/sitedistribution.png)
+![](Layout/Agriculturedistribution.png)
 
 
 ## Transport and Communication
 
+![](Layout/roadnetwork.jpg)
+![](Layout/transport.jpg)
+![](Layout/communication.jpg)
+
 
 ## Infrastructure 
-
+![](Layout/settlementdensity.jpg)
 
 
 ## Environment and Hazard
+![](Layout/naturalforest.jpg)
+![](Layout/farmingplantation.jpg)
+![](Layout/heatmap.jpg)
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
