@@ -70,4 +70,3 @@ The study area has dominant land-cover of natural forests, which we needed to av
 knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
 ```
 
-# Conclusion
