@@ -57,7 +57,6 @@ The study area has dominant land-cover of natural forests, which we needed to av
 ![](../Layout/Selected Area.jpg){ width=50% }
 ![](../Layout/Selected Site.jpg){ width=50% }
 
-Try `posterdown` out! Hopefully you like it!
 
 ```{r, include=FALSE}
 knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
