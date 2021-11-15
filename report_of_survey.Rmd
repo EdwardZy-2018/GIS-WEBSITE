@@ -25,10 +25,24 @@ With Indonesia earning the name of the world’s largest palm oil producer in th
 
 
 ## Transport and Communication
+To properly understand the Transport aspect of Kalimantan, we will leverage the following features for a wholistic analysis: 
 
+Road Networks 
+
+Bus Terminals 
+
+Airports 
+
+Sea Ports 
+
+To begin we will start by analysing the road networks within the specified study area. The purple lines represent roads. Briefly, 2 major road clusters could be identified in Kota Balikpapan and Kota Samarinda. In Penajam Paser Utara, there seems to be a low road density. The overall road network in Kutai Kartaanergara seems to be substantial apart from the south region. 
 ![](Layout/roadnetwork.jpg)
+Next, we will be analysing the density of roads within the study area. Kota Samarinda is densely connected with roads. It is by far the most connected district within our study area. Kota Balikpapan is the second most connected district with over half of its land well connected. The majority of  Kartaaneragra relates to roads, leaving only a small proportion not well connected. Penajam Paser Utara is the least accessible, it has a huge ration of land that is inaccessible by roads.
 
 ![](Layout/transport.jpg)
+Shown above is a map depicting the distribution of transport infrastructure in our study area. The infrastructures include bust terminals, airports, and harbours. Kota Samarinda is the most accessible district within proximity to 3 bus terminals, multiple harbours, and an airport. Kota Kartaangara is the second most accessible district with 5 harbours, 2 bus stops and an airport.  
+
+ 
 ![](Layout/communication.jpg)
 
 

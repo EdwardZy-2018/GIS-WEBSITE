@@ -42,7 +42,10 @@ In Indonesia, the economy is accounted with the Industrial, Mining and Agricultu
 
 Transport and Communication
 
+Kota Samarinda is densely connected with roads. It is by far the most connected district within our study area. Kota Balikpapan is the second most connected district with over half of its land well connected. The majority of  Kartaaneragra relates to roads, leaving only a small proportion not well connected. Penajam Paser Utara is the least accessible, it has a huge ration of land that is inaccessible by roads. 
+
 Infrastructure
+
 there are several distinct urban clusters. Kota Balikpapan is small but extremely dense. Kota Samarinda is also another small district with a dense settlement. Penajamm Paser Ultra on the other hand is significantly less dense than its neighbouring districts. Kutai Kartaanegara is not very dense overall, but contains several clusters of significant settlements.
 Kota Samarinda has the highest accessibility to electricity. Although Kutai Kartaanegara has the greatest number of electricity points, its huge surface area is more underserved than Kota Samarinda. Kota Balikpapan might not have any points of electricity but it has access to the nearest electrical point in Kutai Kartaanegara. Penajam Paser Utara on the other hand does not have any electrical points and has the overall poorest access to electricity.
 
@@ -56,6 +59,7 @@ The study area has dominant land-cover of natural forests, which we needed to av
 
 ![](../Layout/Selected Area.jpg){ width=50% }
 ![](../Layout/Selected Site.jpg){ width=50% }
+
 
 
 ```{r, include=FALSE}
