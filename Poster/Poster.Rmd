@@ -1,19 +1,11 @@
 ---
-title: Generate Reproducible & Live HTML and PDF Conference Posters Using RMarkdown
+title: SMT201 Geographic Information System for Urban Planning
 author:
-  - name: Brent Thorne
-    affil: 1
-    orcid: '0000-0002-1099-3857'
-  - name: Another G. Author
-    affil: 2
-affiliation:
-  - num: 1
-    address: Department of Earth Science, Brock University
-  - num: 2
-    address: Department of Graphics and Layouts, University of Posters; Canada
+  - name: Edward Puah Zheng Yi
+  - name: Khant Min Naing
+  - name: Wong Kin Hou
+   
 column_numbers: 3
-logoright_name: https&#58;//raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png
-logoleft_name: https&#58;//raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png
 output: 
   posterdown::posterdown_html:
     self_contained: false
