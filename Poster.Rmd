@@ -26,6 +26,10 @@ This project’s research topic is to analyse and evaluate the proposed Indonesi
 
 The study area for this project covers all sub-districts and district of Kota Balikpapan and Kota Samarinda, and selected districts and sub-districts of Kutai Kartanegara and North Penajam Paser Regencies. 
 
+## Approach 
+
+Data Collection, Data Cleaning, Preparation & Wrangling, Establishment of GIS Database, Applying Cartographic Techniques, Criteria Determination & Standardization, Multi-Criteria Decision Making, GIS-Based Land Suitability Analysis & Assessment, Site Selection and Map Production.
+
 # Study Area
 
 ![](../Layout/studysite.jpg){ width=50% }
