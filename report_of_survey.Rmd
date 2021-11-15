@@ -31,12 +31,11 @@ With Indonesia earning the name of the world’s largest palm oil producer in th
 
 
 ## Infrastructure 
-![](Layout/settlementdensity.jpg)
+![](Layout/building.jpg)
 ![](Layout/roadnetwork.jpg)
 
 ![](Layout/electricity.jpg)
 
-![](Layout/building.jpg)
 
 ## Environment and Hazard
 ![](Layout/naturalforest.jpg)
