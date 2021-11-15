@@ -16,5 +16,5 @@ navbar:
     - text: "Final Report"
       href: test.html
     - text: "Poster"
-      href: Poster.html
+      href: Poster/Poster.html
 output: distill::distill_article
