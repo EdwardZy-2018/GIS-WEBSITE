@@ -46,9 +46,9 @@ Infrastructure
 
 Environment and Hazards
 
-## Site Selection
+# Site Selection
 
-# Conclusion
+
 
 Try `posterdown` out! Hopefully you like it!
 
@@ -56,4 +56,4 @@ Try `posterdown` out! Hopefully you like it!
 knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
 ```
 
-# References
+# Conclusion
