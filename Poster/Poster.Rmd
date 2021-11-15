@@ -30,7 +30,7 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 ![](../Layout/studysite.jpg)
 
-# Results
+# Site Surveying
 
 Usually you want to have a nice table displaying some important results that you have calculated. In `posterdown` this is as easy as using the `kable` table formatting you are probably use to as per typical R Markdown formatting.
 
