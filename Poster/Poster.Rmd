@@ -28,7 +28,7 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 # Study Area
 
-![](../Layout/studysite.jpg)
+![](../Layout/studysite.jpg){ width=50% }
 
 # Site Survey
 
@@ -49,8 +49,8 @@ Kota Samarinda has the highest accessibility to electricity. Although Kutai Kart
 Environment and Hazards
 
 # Site Selection
-![](../Layout/AHP.jpg)
-![](../Layout/Consistency.jpg)
+![](../Layout/AHP.jpg){ width=50% }
+![](../Layout/Consistency.jpg){ width=50% }
 
 ![](../Layout/Selected Area.jpg){ width=50% }
 ![](../Layout/Selected Site.jpg){ width=50% }
