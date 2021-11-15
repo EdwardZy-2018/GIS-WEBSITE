@@ -9,9 +9,11 @@ output:
 ---
 ## Population and Demographics
 ![](Layout/population.jpg)
+According to Map X.Y., almost all sub-districts with highest population quantile (13563 – 45505) are located in Balikpapan Regency and Samarinda Regency. Other two regencies have relatively lower population compared to these two. Hence, we can consider that Kota Balikpapan and Kota Samarinda has the biggest community settlement.  
 ![](Layout/dominantagegroup.jpg)
 
 ![](Layout/populationdensity.jpg)
+According to Map X.Y., the sub-districts with highest population are observed within Kota Balikpapan and Kota Samarinda. Majority of the sub-districts in Penajam Paser Utara are found to have the least share of population among four regencies. Sub-districts in Kutai Kartanegara have moderate to low population density. Hence, we concluded that the regencies of Penajam Paser Utara and Kutai Kartanegara will be fit for building a new national capital and a community settlement to redistribute the population more fairly across the island.  
 According to Map X.Y., almost all sub-districts with highest population quantile (13563 – 45505) are located in Balikpapan Regency and Samarinda Regency. Other two regencies have relatively lower population compared to these two.  
 
 ## Economic and Businesses
