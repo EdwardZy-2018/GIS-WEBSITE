@@ -32,23 +32,23 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 # Site Survey
 
-![](../Layout/population.jpg)
-![](../Layout/dominantagegroup.jpg)
-![](../Layout/populationdensity.jpg)
-![](../Layout/sitedistribution.png)
-![](../Layout/Agriculturedistribution.png)
-![](../Layout/transport.jpg)
-![](../Layout/communication.jpg)
-![](../Layout/building.jpg)
-![](../Layout/roadnetwork.jpg)
-![](../Layout/electricity.jpg)
-![](../Layout/naturalforest.jpg)
-![](../Layout/farmingplantation.jpg)
-![](../Layout/heatmap.jpg)
-# Next Steps
+## Population and Demographic
+
+Almost all sub-districts with highest population quantile are located in Balikpapan Regency and Samarinda Regency. Other two regencies have relatively lower population compared to these two. Hence, we can consider that Kota Balikpapan and Kota Samarinda has the biggest community settlement.  Majority of the sub-districts in Penajam Paser Utara are found to have the least share of population among four regencies. Sub-districts in Kutai Kartanegara have moderate to low population density. Hence, we concluded that the regencies of Penajam Paser Utara and Kutai Kartanegara will be fit for building a new national capital and a community settlement to redistribute the population more fairly across the island.  
+
+Economy and Businesses
+
+In Indonesia, the economy is accounted with the Industrial, Mining and Agriculture. It was stated that the industrial sector account for up to about 40% of GDP in 2015 which includes natural gas, textiles, apparel, and significantly mining. Whereas, the Agriculture sector is accounted for about 14% and Balikpapan city have higher number of manufacturing/mining industrial sector in their economy as compared to the other district. With Indonesia earning the name of the world’s largest palm oil producer in the world, we can infer that Indonesia has the largest plantation area forming the concentration of agriculture's activities in the area. Food crops are cultivated in sawah (wetland), Tegalan and ladang(dryland/garden). Sawah is a flat lowland on downhill sites or floodplains and terraced land on upper slopes. On the other hand, Tegalan  is a gentle slope land and usually has no access to any irrigation system and located close to settlement and ladang, a slope land of different variations of steepness and altitude. 
+
+Transport and Communication
+
+Infrastructure
+
+Environment and Hazards
+
+# Site Selection
 
 
-# Conclusion
 
 Try `posterdown` out! Hopefully you like it!
 
@@ -56,4 +56,4 @@ Try `posterdown` out! Hopefully you like it!
 knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
 ```
 
-# References
+# Conclusion
