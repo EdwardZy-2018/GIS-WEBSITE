@@ -30,7 +30,7 @@ The study area for this project covers all sub-districts and district of Kota Ba
 
 ![](../Layout/studysite.jpg)
 
-# Site Surveying
+# Site Survey
 
 ![](../Layout/population.jpg)
 ![](../Layout/dominantagegroup.jpg)
